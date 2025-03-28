@@ -4,10 +4,10 @@ This is a user dashboard that fetches and displays user data from a REST API. Th
 
 ## Features
 
-Modern UI Design with a clean and attractive layout
-User Profile section displaying the user details in engaging card format
-User Activity Sections that highlights user posts and their activities over the web
-Animations that enhances the user interaction with pop-in, pop-up effect
+Modern UI Design with a clean and attractive layout.\
+User Profile section displaying the user details in engaging card format.\
+User Activity Sections that highlights user posts and their activities over the web.\
+Animations that enhances the user interaction with pop-in, pop-up effect.\
 
 ### Technologies used
 React.js- For building interactive interface and resuable UI components
