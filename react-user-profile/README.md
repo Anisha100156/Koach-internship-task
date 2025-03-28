@@ -1,4 +1,4 @@
-# About the project
+### About the project
 
 This is a user dashboard that fetches and displays user data from a REST API. The dashboard should include basic user information and a list of user activities created using React.js. It is a visually appealing responsive  interface to display user profiles and activities.
 
@@ -34,7 +34,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-## Future Development
+### Future Development
 We can integrate backend database for storing user data
 The we can add user authorization and authentication
 We can display real time data updates
