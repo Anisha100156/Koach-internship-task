@@ -40,4 +40,4 @@ The we can add user authorization and authentication
 We can display real time data updates
 
 # Website Link
-https://koach-internship-task-om2j.vercel.app/users/3
+https://koach-internship-task-om2j.vercel.app/
