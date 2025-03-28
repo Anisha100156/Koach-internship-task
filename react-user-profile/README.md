@@ -34,7 +34,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### Future Development
+# Future Development
 We can integrate backend database for storing user data
 The we can add user authorization and authentication
 We can display real time data updates
