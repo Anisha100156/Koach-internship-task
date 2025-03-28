@@ -10,13 +10,13 @@ User Activity Sections that highlights user posts and their activities over the 
 Animations that enhances the user interaction with pop-in, pop-up effect.\
 
 ### Technologies used
-React.js- For building interactive interface and resuable UI components
-HTML5- For structuring and organization of the webpage
-CSS- For styling and layout
-JavasScript- For adding interactiivity with the user
-TypeScript- For type safety and defining the types of user data and activities.
-REST API-  Used to fetch user data and activities dynamically.
-React Router - Enables seamless navigation between different pages.
+React.js- For building interactive interface and resuable UI components.\
+HTML5- For structuring and organization of the webpage.\
+CSS- For styling and layout.\
+JavasScript- For adding interactiivity with the user.\
+TypeScript- For type safety and defining the types of user data and activities.\
+REST API-  Used to fetch user data and activities dynamically.\
+React Router - Enables seamless navigation between different pages.\
 
 # Getting Started with Create React App
 
